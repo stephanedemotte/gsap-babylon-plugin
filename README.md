@@ -1,4 +1,4 @@
-# gsap-babylonjs-plugin
+# gsap-babylon-plugin
 Based on GSAP PIXI Plugin https://github.com/noprotocol/gsap-pixi-plugin
 
 ```
