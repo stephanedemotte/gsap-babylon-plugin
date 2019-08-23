@@ -3,7 +3,7 @@ Based on GSAP PIXI Plugin https://github.com/noprotocol/gsap-pixi-plugin
 
 ```
 // js
-import 'gsap-babylonjs-plugin'
+import 'gsap-babylon-plugin'
 
 TweenLite.to(mesh, 1, {
   babylon: {
