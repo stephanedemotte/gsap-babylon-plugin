@@ -22,7 +22,7 @@ _gsScope._gsDefine.plugin({
     global: true,
     version: "1.0.0",
     init: function(target, values, tween) {
-      for(const property in values) {
+      for(var property in values) {
         let value = values[property]
 
         if(typeof value == 'function')
